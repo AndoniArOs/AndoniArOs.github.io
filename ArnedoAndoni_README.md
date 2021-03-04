@@ -48,7 +48,7 @@
 ##### OTHER DATA OF INTEREST
 - Immediate availability
 - Driver's license B1
-- Own car
+- Own car 
 
 
 
